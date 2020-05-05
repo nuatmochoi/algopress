@@ -1,6 +1,6 @@
 # Overview
 
-[DFS](./docs/dfs/타겟넘버.md)
+[DFS](./docs/dfs/dfs.md)
 
-[DP](./docs/dp/N으로표현.md)
+[DP](./docs/dp/dp.md)
 
