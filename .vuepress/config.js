@@ -5,7 +5,12 @@ module.exports = {
 	serviceWorker: true,
 	themeConfig: {
 		nav: [{ text: 'Home', link: '/' }],
-		sidebar: [['/', 'Overview'], '/docs/dfs/dfs', '/docs/dp/dp'],
+		sidebar: [
+			['/', 'Overview'],
+			'/docs/dfs/dfs',
+			'/docs/dp/dp',
+			'/docs/hash/hash',
+		],
 	},
 	head: [
 		['link', { rel: 'icon', href: '/images/icon-144x144.png' }],

@@ -4,3 +4,4 @@
 
 [DP](./docs/dp/dp.md)
 
+[Hash](./docs/hash/hash.md)
