@@ -10,6 +10,7 @@ module.exports = {
 			'/docs/dfs/dfs',
 			'/docs/dp/dp',
 			'/docs/hash/hash',
+			'/docs/greedy/greedy',
 		],
 	},
 	head: [
