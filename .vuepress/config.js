@@ -11,6 +11,7 @@ module.exports = {
 			'/docs/dp/dp',
 			'/docs/hash/hash',
 			'/docs/greedy/greedy',
+			'/docs/binary_search/binary_search',
 		],
 	},
 	head: [
