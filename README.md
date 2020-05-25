@@ -9,3 +9,5 @@
 [Greedy](./docs/greedy/greedy.md)
 
 [Binary Search](./docs/binary_search/binary_search.md)
+
+[Stack](./docs/stack/stack.md)
