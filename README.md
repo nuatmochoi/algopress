@@ -11,3 +11,5 @@
 [Binary Search](./docs/binary_search/binary_search.md)
 
 [Stack](./docs/stack/stack.md)
+
+[Queue](./docs/queue/queue.md)
