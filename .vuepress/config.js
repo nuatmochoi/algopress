@@ -7,6 +7,7 @@ module.exports = {
 		nav: [{ text: 'Home', link: '/' }],
 		sidebar: [
 			['/', 'Overview'],
+			'/docs/bfs/bfs',
 			'/docs/dfs/dfs',
 			'/docs/dp/dp',
 			'/docs/hash/hash',

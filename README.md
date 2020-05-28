@@ -1,5 +1,7 @@
 # Overview
 
+[BFS](./docs/bfs/bfs.md)
+
 [DFS](./docs/dfs/dfs.md)
 
 [DP](./docs/dp/dp.md)
