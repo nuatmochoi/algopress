@@ -15,3 +15,5 @@
 [Stack](./docs/stack/stack.md)
 
 [Queue](./docs/queue/queue.md)
+
+[Sort](./docs/sort/sort.md)

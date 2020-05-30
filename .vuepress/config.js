@@ -15,6 +15,7 @@ module.exports = {
 			'/docs/binary_search/binary_search',
 			'/docs/stack/stack',
 			'/docs/queue/queue',
+			'/docs/sort/sort',
 		],
 	},
 	head: [
