@@ -17,3 +17,5 @@
 [Queue](./docs/queue/queue.md)
 
 [Sort](./docs/sort/sort.md)
+
+[Heap](./docs/heap/heap.md)

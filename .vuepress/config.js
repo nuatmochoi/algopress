@@ -16,6 +16,7 @@ module.exports = {
 			'/docs/stack/stack',
 			'/docs/queue/queue',
 			'/docs/sort/sort',
+			'/docs/heap/heap',
 		],
 	},
 	head: [
