@@ -17,6 +17,7 @@ module.exports = {
 			'/docs/queue/queue',
 			'/docs/sort/sort',
 			'/docs/heap/heap',
+			'/docs/brute_force/brute_force',
 		],
 	},
 	head: [

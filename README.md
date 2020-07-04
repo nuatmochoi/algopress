@@ -19,3 +19,5 @@
 [Sort](./docs/sort/sort.md)
 
 [Heap](./docs/heap/heap.md)
+
+[Brute Force](./docs/brute_force/brute_force.md)
