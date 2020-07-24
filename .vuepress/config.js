@@ -19,6 +19,7 @@ module.exports = {
 			'/docs/heap/heap',
 			'/docs/brute_force/brute_force',
 			'/docs/string/string',
+			'/docs/graph/graph',
 		],
 	},
 	head: [
