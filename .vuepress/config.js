@@ -20,6 +20,7 @@ module.exports = {
 			'/docs/brute_force/brute_force',
 			'/docs/string/string',
 			'/docs/graph/graph',
+			'/docs/simulation/simulation',
 		],
 	},
 	head: [
