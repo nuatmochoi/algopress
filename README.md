@@ -27,3 +27,5 @@
 [Graph](./docs/graph/graph.md)
 
 [Simulation](./docs/simulation/simulation.md)
+
+[Backtracking](./docs/backtrack/backtrack.md)

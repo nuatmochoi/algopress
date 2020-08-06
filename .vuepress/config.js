@@ -21,6 +21,7 @@ module.exports = {
 			'/docs/string/string',
 			'/docs/graph/graph',
 			'/docs/simulation/simulation',
+			'/docs/backtrack/backtrack',
 		],
 	},
 	head: [
