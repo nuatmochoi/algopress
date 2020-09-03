@@ -13,3 +13,5 @@
 [문자판 - BOJ](./문자판.md)
 
 [텀 프로젝트 - BOJ](./텀프로젝트.md)
+
+[Two Dots - BOJ](./two_dots.md)
