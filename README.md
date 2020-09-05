@@ -29,3 +29,5 @@
 [Simulation](./docs/simulation/simulation.md)
 
 [Backtracking](./docs/backtrack/backtrack.md)
+
+[Math](./docs/math/math.md)
