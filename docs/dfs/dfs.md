@@ -15,3 +15,5 @@
 [텀 프로젝트 - BOJ](./텀프로젝트.md)
 
 [Two Dots - BOJ](./two_dots.md)
+
+[트리의 지름 - BOJ](./트리의지름.md)
