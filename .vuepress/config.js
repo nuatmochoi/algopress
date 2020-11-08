@@ -23,6 +23,7 @@ module.exports = {
 			'/docs/simulation/simulation',
 			'/docs/backtrack/backtrack',
 			'/docs/math/math',
+			'/docs/two_pointer/two_pointer'
 		],
 	},
 	head: [

@@ -31,3 +31,5 @@
 [Backtracking](./docs/backtrack/backtrack.md)
 
 [Math](./docs/math/math.md)
+
+[Two Pointer](./docs/two_pointer/two_pointer.md)
